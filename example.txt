@@ -1,0 +1,5 @@
+this is feature branch git commands for branch
+git branch <name> => creates new branch
+git checkout <name> => moves to new branch
+git checkout -b <branch_name> does both the operation
+
